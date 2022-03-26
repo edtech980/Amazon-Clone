@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/edtech980/Amazon-Clone/static/css/main.7114ee1c.chunk.css",
+    "main.js": "/edtech980/Amazon-Clone/static/js/main.acbd7287.chunk.js",
+    "main.js.map": "/edtech980/Amazon-Clone/static/js/main.acbd7287.chunk.js.map",
+    "runtime-main.js": "/edtech980/Amazon-Clone/static/js/runtime-main.a1460b36.js",
+    "runtime-main.js.map": "/edtech980/Amazon-Clone/static/js/runtime-main.a1460b36.js.map",
+    "static/css/2.0ccb862f.chunk.css": "/edtech980/Amazon-Clone/static/css/2.0ccb862f.chunk.css",
+    "static/js/2.479d48ef.chunk.js": "/edtech980/Amazon-Clone/static/js/2.479d48ef.chunk.js",
+    "static/js/2.479d48ef.chunk.js.map": "/edtech980/Amazon-Clone/static/js/2.479d48ef.chunk.js.map",
+    "index.html": "/edtech980/Amazon-Clone/index.html",
+    "static/css/2.0ccb862f.chunk.css.map": "/edtech980/Amazon-Clone/static/css/2.0ccb862f.chunk.css.map",
+    "static/css/main.7114ee1c.chunk.css.map": "/edtech980/Amazon-Clone/static/css/main.7114ee1c.chunk.css.map",
+    "static/js/2.479d48ef.chunk.js.LICENSE.txt": "/edtech980/Amazon-Clone/static/js/2.479d48ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1460b36.js",
+    "static/css/2.0ccb862f.chunk.css",
+    "static/js/2.479d48ef.chunk.js",
+    "static/css/main.7114ee1c.chunk.css",
+    "static/js/main.acbd7287.chunk.js"
+  ]
+}
